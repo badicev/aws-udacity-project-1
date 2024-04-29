@@ -5,10 +5,8 @@
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 Upon attempting to submit predictions, the crucial realization was the necessity to align the prediction outputs with the sampleSubmission format, assigning predictions to specific datetimes for relevance.
 
-The top-performing model was the WeightedEnsemble_L3, boasting a score_val of -34.230408 and a Kaggle score of 0.51188.
-
 ### What was the top ranked model that performed?
-It was the WeightedEnsemble_L3 with score_val of -34.230408 and kaggle score of 0.51188 .
+The top-performing model was the WeightedEnsemble_L3, boasting a score_val of -34.230408 and a Kaggle score of 0.51188.
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
